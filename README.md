@@ -74,3 +74,4 @@ This dashboard enables stakeholders to:
   ## Project Preview
   https://github.com/CjwilliamsWiz95/RFM-ANALYSIS/blob/main/Screenshot%202026-06-21%20232728.png
   https://github.com/CjwilliamsWiz95/RFM-ANALYSIS/blob/main/Screenshot%202026-06-21%20232758.png
+  https://github.com/CjwilliamsWiz95/RFM-ANALYSIS/blob/main/Screenshot%202026-06-21%20232826.png
