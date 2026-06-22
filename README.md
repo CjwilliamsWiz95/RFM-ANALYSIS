@@ -70,3 +70,6 @@ This dashboard enables stakeholders to:
 - Identify at-risk customers early
 - Optimize marketing and sales efforts based on segment behavior
 - Drive data-backed decision-making
+
+  ## Project Preview
+  https://github.com/CjwilliamsWiz95/RFM-ANALYSIS/blob/main/Screenshot%202026-06-21%20232728.png
